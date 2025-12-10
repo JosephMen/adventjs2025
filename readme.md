@@ -23,3 +23,4 @@ The official page:  [AdventJs](https://adventjs.dev/)
 |--------|------|-------| -----------|
 | [1](./src/challenge%201/) |Filter the defective gifts | ⭐⭐⭐⭐⭐| 🟢 Easy |
 | [2](./src/challenge%202) | Manufacture the toys | ⭐⭐⭐⭐⭐ | 🟢 Easy |
+|
