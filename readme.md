@@ -21,5 +21,5 @@ The official page:  [AdventJs](https://adventjs.dev/)
 
 | Number | Name | Stars Achieved| Difficulty |
 |--------|------|-------| -----------|
-| [1](./src/challenge 1/) |Filter the defective gifts | ⭐⭐⭐⭐⭐| 🟢 Easy |
-| [2](./src/challenge 2) | Manufacture the toys | ⭐⭐⭐⭐⭐ | 🟢 Easy |
+| [1](./src/challenge%201/) |Filter the defective gifts | ⭐⭐⭐⭐⭐| 🟢 Easy |
+| [2](./src/challenge%202) | Manufacture the toys | ⭐⭐⭐⭐⭐ | 🟢 Easy |
