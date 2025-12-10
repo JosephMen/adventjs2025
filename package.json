@@ -1,0 +1,22 @@
+{
+  "name": "adventJS2025",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest",
+    "dev": "ts-node src/index.js",
+    "build":"tsc",
+    "test:watch": "vitest --watch"
+  },
+  "keywords": [],
+  "author": "Frander Mena Sandoval",
+  "license": "ISC",
+  "packageManager": "pnpm@10.5.0",
+  "devDependencies": {
+    "@types/node": "^24.10.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3",
+    "vitest": "^4.0.15"
+  }
+}
