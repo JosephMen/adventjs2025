@@ -2,7 +2,7 @@ import {manufactureGifts} from './challenge2'
 import { describe, it, expect } from "vitest";
 
 
-describe("",() => {
+describe("Challenge 2 tests",() => {
     
     it('Build Array from 1', () => {
         const production = [
