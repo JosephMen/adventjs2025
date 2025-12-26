@@ -25,3 +25,4 @@ The official page:  [AdventJs](https://adventjs.dev/)
 | [2](./src/challenge%202) | Manufacture the toys | ⭐⭐⭐⭐⭐ | 🟢 Easy |
 | [3](./src/challenge%203) | Help the Intern | ⭐⭐⭐⭐⭐ | 🟢 Easy
 | [4](./src/challenge%204) | Decipher the Santa PIN | ⭐⭐⭐ | 🟡 Medium
+| [5](./src/challenge%205) | The countdow to take off | ⭐⭐⭐ | 🟢 Easy
