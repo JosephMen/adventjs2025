@@ -3,11 +3,13 @@ export default function findUniqueToy(toy: string): string {
 
   if(toy.length == 1) return toy
   for(let i = 0; i < toy.length; i++){
-    if(i == toy.length - 1) return ''
+    const current = toy[i]
     for(let j = 0; j < toy.length; j++) {
-        if(j == i) continue 
-        if(toy[i]?.toLowerCase() === toy[j]?.toLowerCase()) break
-        if(j == toy.length - 1) return toy[i]
+      if(i == j && j == toy.length - 1) return current
+      if(j == i) continue 
+      if(current?.toLowerCase() === toy[j]?.toLowerCase()) break
+      if(j == toy.length - 1) return toy[i]
     }
   }
+  return ''
 }
