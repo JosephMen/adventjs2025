@@ -29,4 +29,5 @@ The official page:  [AdventJs](https://adventjs.dev/)
 | [6](./src/challenge%206) | Matching Gloves | ⭐⭐⭐⭐ | 🟢 Easy
 | [7](./src/challenge%207) | Decorating the Tree | ⭐⭐⭐⭐ | 🟡 Medium
 | [8](./src/challenge%208) | Find the unique toy | ⭐⭐⭐ | 🟢 Easy
-| [9](./src/challenge%209) | The Reno Robot Aspirator | ⭐⭐⭐ | 🔴 Hard
+| [9](./src/challenge%209) | The Reno Robot Aspirator | ⭐⭐⭐⭐ | 🔴 Hard
+| [10](./src/challenge%209) | Depth of Christmas Magic | ⭐⭐⭐⭐⭐ | 🟢 Easy
