@@ -31,4 +31,4 @@ The official page:  [AdventJs](https://adventjs.dev/)
 | [8](./src/challenge%208) | Find the unique toy | ⭐⭐⭐ | 🟢 Easy
 | [9](./src/challenge%209) | The Reno Robot Aspirator | ⭐⭐⭐⭐ | 🔴 Hard
 | [10](./src/challenge%2010) | Depth of Christmas Magic | ⭐⭐⭐⭐⭐ | 🟢 Easy
-| [11](./src/challenge%2011) | TBD | 0 Stars 🤷‍♂️ | 🟢 Easy
+| [11](./src/challenge%2011) | Unwatched Gifts | ⭐⭐⭐⭐ | 🟢 Easy
