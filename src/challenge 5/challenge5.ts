@@ -13,8 +13,6 @@ export default function timeUntilTakeOff(
     const fromTimeDate = new Date(year, month - 1, day, hour, min, sec)
     const takeOffDate = new Date(year2, month2 - 1, day2, hour2, min2, sec2)
 
-    console.log({fromTimeDate, takeOffDate})
-
     const diffSeconds = Math.floor((takeOffDate.getTime() - fromTimeDate.getTime()) / 1000);
     return diffSeconds
 }
