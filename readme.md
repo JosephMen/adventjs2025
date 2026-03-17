@@ -33,4 +33,4 @@ The official page:  [AdventJs](https://adventjs.dev/)
 | [10](./src/challenge%2010) | Depth of Christmas Magic | ⭐⭐⭐⭐⭐ | 🟢 Easy
 | [11](./src/challenge%2011) | Unwatched Gifts | ⭐⭐⭐⭐ | 🟢 Easy
 | [12](./src/challenge%2012) | Elf Battle | ⭐⭐⭐⭐ | 🟡 Medium
-| [13](./src/challenge%2013) | Count the Present Piles | ⭐⭐⭐⭐ | 🟡 Medium
+| [13](./src/challenge%2013) | The Assembly Line | ⭐⭐⭐⭐ | 🟡 Medium
