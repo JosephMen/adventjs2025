@@ -1,15 +1,14 @@
 export default function findUniqueToy(toy: string): string {
-  // Code here
 
   if(toy.length == 1) return toy
-  for(let i = 0; i < toy.length; i++){
-    const current = toy[i]
-    for(let j = 0; j < toy.length; j++) {
-      if(i == j && j == toy.length - 1) return current
-      if(j == i) continue 
-      if(current?.toLowerCase() === toy[j]?.toLowerCase()) break
-      if(j == toy.length - 1) return toy[i]
-    }
+  const normalized = toy.toLowerCase()
+  const letters = Array.from(normalized)
+
+  let i = 0
+  for (let currentLetter of letters){
+    const results = letters.filter( letter => letter === currentLetter)
+    if(results.length === 1) return toy[i]
+    i++
   }
   return ''
-}
+} 
