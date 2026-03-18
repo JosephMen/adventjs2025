@@ -28,9 +28,10 @@ The official page:  [AdventJs](https://adventjs.dev/)
 | [5](./src/challenge%205) | The countdow to take off | 0 Stars 🤷‍♂️ | 🟢 Easy
 | [6](./src/challenge%206) | Matching Gloves | ⭐⭐⭐⭐ | 🟢 Easy
 | [7](./src/challenge%207) | Decorating the Tree | ⭐⭐⭐⭐ | 🟡 Medium
-| [8](./src/challenge%208) | Find the unique toy | ⭐⭐⭐ | 🟢 Easy
+| [8](./src/challenge%208) | Find the unique toy | ⭐⭐⭐⭐ | 🟢 Easy
 | [9](./src/challenge%209) | The Reno Robot Aspirator | ⭐⭐⭐⭐ | 🔴 Hard
 | [10](./src/challenge%2010) | Depth of Christmas Magic | ⭐⭐⭐⭐⭐ | 🟢 Easy
 | [11](./src/challenge%2011) | Unwatched Gifts | ⭐⭐⭐⭐ | 🟢 Easy
 | [12](./src/challenge%2012) | Elf Battle | ⭐⭐⭐⭐ | 🟡 Medium
 | [13](./src/challenge%2013) | The Assembly Line | ⭐⭐⭐⭐ | 🟡 Medium
+| [14](./src/challenge%2014) | Find the Gift Path| ⭐⭐⭐⭐ | 🟢 Easy
