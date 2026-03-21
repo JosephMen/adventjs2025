@@ -36,4 +36,4 @@ The official page:  [AdventJs](https://adventjs.dev/)
 | [13](./src/challenge%2013) | The Assembly Line | ⭐⭐⭐⭐ | 🟡 Medium
 | [14](./src/challenge%2014) | Find the Gift Path | ⭐⭐⭐⭐ | 🟢 Easy
 | [15](./src/challenge%2015) | Drawing Tables | ⭐⭐⭐⭐ | 🟡 Medium
-| [16](./src/challenge%2016) | TBD | ⭐⭐⭐⭐⭐  | 🟢 Easy
+| [16](./src/challenge%2016) | Packing Gifts for Santa | ⭐⭐⭐⭐⭐  | 🟢 Easy
