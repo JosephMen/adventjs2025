@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "vitest",
     "dev": "ts-node src/index.js",
-    "build":"tsc",
+    "build": "tsc",
     "test:watch": "vitest --watch"
   },
   "keywords": [],
@@ -16,6 +17,7 @@
   "devDependencies": {
     "@types/node": "^24.10.2",
     "ts-node": "^10.9.2",
+    "tsx": "^4.21.0",
     "typescript": "^5.9.3",
     "vitest": "^4.0.15"
   }

@@ -34,4 +34,5 @@ The official page:  [AdventJs](https://adventjs.dev/)
 | [11](./src/challenge%2011) | Unwatched Gifts | ⭐⭐⭐⭐ | 🟢 Easy
 | [12](./src/challenge%2012) | Elf Battle | ⭐⭐⭐⭐ | 🟡 Medium
 | [13](./src/challenge%2013) | The Assembly Line | ⭐⭐⭐⭐ | 🟡 Medium
-| [14](./src/challenge%2014) | Find the Gift Path| ⭐⭐⭐⭐ | 🟢 Easy
+| [14](./src/challenge%2014) | Find the Gift Path | ⭐⭐⭐⭐ | 🟢 Easy
+| [15](./src/challenge%2015) | Drawing Tables | ⭐⭐⭐⭐ | 🟡 Medium

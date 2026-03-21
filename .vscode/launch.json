@@ -1,0 +1,50 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug TS ts-node",
+            "runtimeArgs": [
+                "--import",
+                "data:text/javascript,import { register } from 'node:module'; import { pathToFileURL } from 'node:url'; register('ts-node/esm', pathToFileURL('./'));"
+            ],
+            "args": ["${file}"],
+            "cwd": "${workspaceFolder}",
+            "skipFiles": ["<node_internals>/**"]
+        },
+        {
+            "type":"node",
+            "request":"launch",
+            "name":"Run tsx",
+            "runtimeExecutable":"tsx",
+            "cwd":"${workspaceFolder}",
+            "args":[]
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "TSX GPT",
+            "runtimeExecutable": "node",
+            "runtimeArgs": [
+                "--inspect-brk",
+                "--loader",
+                "tsx"
+            ],
+            "cwd": "${workspaceFolder}",
+            "skipFiles": ["<node_internals>/**"]
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch Program",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\src\\challenge 15\\challenge15.ts",
+            "outFiles": [
+                "${workspaceFolder}/**/*.js"
+            ]
+        }
+    ]
+}

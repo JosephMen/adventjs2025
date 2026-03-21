@@ -7,9 +7,10 @@
 
     // Environment Settings
     // See also https://aka.ms/tsconfig/module
-    "module": "esnext",
+    "module": "nodenext",
     "target": "es2020",
     "types": [],
+
     // For nodejs:
     // "lib": ["esnext"],
     // "types": ["node"],
@@ -17,6 +18,7 @@
 
     // Other Outputs
     "sourceMap": true,
+    "inlineSources": true,
     "declaration": true,
     "declarationMap": true,
 
@@ -40,9 +42,11 @@
     "noUncheckedSideEffectImports": true,
     "moduleDetection": "force",
     "skipLibCheck": true,
-    "moduleResolution": "node",
+    "moduleResolution": "nodenext",
     "forceConsistentCasingInFileNames": true,
-    "esModuleInterop": true
+    "esModuleInterop": true,
+    
+
   },
   "include": ["src"]
 }
