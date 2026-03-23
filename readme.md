@@ -25,7 +25,7 @@ The official page:  [AdventJs](https://adventjs.dev/)
 | [2](./src/challenge%202) | Manufacture the toys | ⭐⭐⭐⭐⭐ | 🟢 Easy |
 | [3](./src/challenge%203) | Help the Intern | ⭐⭐⭐⭐⭐ | 🟢 Easy
 | [4](./src/challenge%204) | Decipher the Santa PIN | ⭐⭐⭐ | 🟡 Medium
-| [5](./src/challenge%205) | The countdow to take off | 0 Stars 🤷‍♂️ | 🟢 Easy
+| [5](./src/challenge%205) | The countdow to take off | ⭐⭐⭐⭐⭐ | 🟢 Easy
 | [6](./src/challenge%206) | Matching Gloves | ⭐⭐⭐⭐ | 🟢 Easy
 | [7](./src/challenge%207) | Decorating the Tree | ⭐⭐⭐⭐ | 🟡 Medium
 | [8](./src/challenge%208) | Find the unique toy | ⭐⭐⭐⭐ | 🟢 Easy
@@ -37,3 +37,5 @@ The official page:  [AdventJs](https://adventjs.dev/)
 | [14](./src/challenge%2014) | Find the Gift Path | ⭐⭐⭐⭐ | 🟢 Easy
 | [15](./src/challenge%2015) | Drawing Tables | ⭐⭐⭐⭐ | 🟡 Medium
 | [16](./src/challenge%2016) | Packing Gifts for Santa | ⭐⭐⭐⭐⭐  | 🟢 Easy
+| [17](./src/challenge%2017) | The Christmas Lights Panel | ⭐⭐⭐⭐⭐ | 🟢 Easy
+| [18](./src/challenge%2018) | Lights in line with diagonals | ⭐⭐⭐| 🟡 Medium
