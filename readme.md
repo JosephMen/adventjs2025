@@ -39,3 +39,4 @@ The official page:  [AdventJs](https://adventjs.dev/)
 | [16](./src/challenge%2016) | Packing Gifts for Santa | ⭐⭐⭐⭐⭐  | 🟢 Easy
 | [17](./src/challenge%2017) | The Christmas Lights Panel | ⭐⭐⭐⭐⭐ | 🟢 Easy
 | [18](./src/challenge%2018) | Lights in line with diagonals | ⭐⭐⭐| 🟡 Medium
+| [19](./src/challenge%2019) | Santa's Secret Journey |⭐⭐⭐⭐⭐ | 🟢 Easy
