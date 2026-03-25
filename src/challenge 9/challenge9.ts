@@ -41,11 +41,3 @@ export default function moveReno(board: Board, moves: Moves): Result {
   }
   return 'fail';
 }
-const board = `
-.....
-.*#.*
-.@...
-.....
-`
-const result = moveReno(board, 'RU')
-console.log({result})
