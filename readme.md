@@ -42,6 +42,6 @@ The official page:  [AdventJs](https://adventjs.dev/)
 | [19](./src/challenge%2019) | Santa's Secret Journey |⭐⭐⭐⭐⭐ | 🟢 Easy
 | [20](./src/challenge%2020) | Vertical Warehouse | ⭐⭐⭐⭐⭐ | 🟢 Easy
 | [21](./src/challenge%2021) | The Cleaning Robot | ⭐⭐⭐⭐ | 🟡 Medium
-| [22](./src/challenge%2022) | (Pendiente) | 0 Stars 🤷‍♂️ | 🔴 Hard
+| [22](./src/challenge%2022) | The Sleigh Maze | ⭐⭐⭐⭐ | 🔴 Hard
 | [23](./src/challenge%2023) | (Pendiente) | 0 Stars 🤷‍♂️ | 🟡 Medium
 | [24](./src/challenge%2024) | (Pendiente) | 0 Stars 🤷‍♂️ | 🟡 Medium
