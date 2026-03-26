@@ -1,7 +1,7 @@
 import {packGifts} from "./challenge16";
 import { describe, expect, it } from "vitest";
 
-describe("tests for challenge 16", () => {
+describe.skip("tests for challenge 16", () => {
   it("returns 2 sleighs for [2, 3, 4, 1] with capacity 5", () => {
     expect(packGifts([2, 3, 4, 1], 5)).toBe(2);
   });

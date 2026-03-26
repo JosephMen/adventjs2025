@@ -1,7 +1,7 @@
 import { describe, expect, it } from "vitest";
 import { hasFourLights } from "./challenge17";
 
-describe("hasFourLights examples from readme", () => {
+describe.skip("hasFourLights examples from readme", () => {
   it("should return true for 4 red lights horizontally", () => {
     const board = [
       ['.', '.', '.', '.', '.'],

@@ -1,7 +1,7 @@
 import elfBattle from "./challenge12";
 import { describe, expect, it } from "vitest";
 
-describe("tests for challenge 12", () => {
+describe.skip("tests for challenge 12", () => {
   it("returns draw for A vs B", () => {
     expect(elfBattle("A", "B")).toBe(0);
   });

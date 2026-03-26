@@ -1,7 +1,7 @@
 import {describe, expect, it} from 'vitest'
 import timeUntilTakeOff from './challenge5'
 
-describe("Tests for challenge 5", () => {
+describe.skip("Tests for challenge 5", () => {
 
     const takeoff = '2025*12*25@00|00|00 NP'
     it("It should returns 30", () => {

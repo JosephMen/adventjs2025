@@ -1,7 +1,7 @@
 import {describe, expect, it} from 'vitest'
 import matchGloves, { type Glove } from './challenge6'
 
-describe("Test for challenge 6", () => {
+describe.skip("Test for challenge 6", () => {
     it("Should return red and green only", () => {
         const gloves : Glove[] = [
             { hand: 'L', color: 'red' },

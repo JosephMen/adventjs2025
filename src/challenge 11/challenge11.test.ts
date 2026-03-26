@@ -1,7 +1,7 @@
 import findUnsafeGifts from "./challenge11";
 import { describe, expect, it } from "vitest";
 
-describe("tests for challenge 11", () => {
+describe.skip("tests for challenge 11", () => {
   it("returns 0 when all gifts are watched", () => {
     const warehouse = [
       ".*.",

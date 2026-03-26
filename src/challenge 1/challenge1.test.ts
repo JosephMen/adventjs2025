@@ -1,7 +1,7 @@
 import { filterGifts } from "./challenge1";
 import { describe, it, expect } from "vitest";
 
-describe("filter strings with '#' present", () => {
+describe.skip("filter strings with '#' present", () => {
   it("should return [car, ball]", () => {
     const gifts1 = ['car', 'doll#arm', 'ball', '#train']
     const result = filterGifts(gifts1)

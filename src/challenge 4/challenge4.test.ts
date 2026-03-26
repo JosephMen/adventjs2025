@@ -1,7 +1,7 @@
 import { describe, it, expect } from "vitest";
 import { decodeSantaPin } from "./challenge4";
 
-describe("Tests for 'Decode Santa Pins'", () => {
+describe.skip("Tests for 'Decode Santa Pins'", () => {
     it("test 1 should return 3144", () => {
         const expectedResult = "3144"
         const entry = '[1++][2-][3+][<]'

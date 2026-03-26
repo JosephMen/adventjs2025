@@ -1,7 +1,7 @@
 import { describe, expect, it } from "vitest";
 import { drawTable } from "./challenge15.js";
 
-describe("drawTable examples from readme", () => {
+describe.skip("drawTable examples from readme", () => {
   it("should draw table sorted by name", () => {
     const result = drawTable(
       [

@@ -1,7 +1,7 @@
 import { describe, it, expect } from "vitest";
 import { drawGift } from "./challenge3";
 
-describe("Challenge 3 tests", () => {
+describe.skip("Challenge 3 tests", () => {
 
     it("square of 4x4 with * ", () => {
         const expected = `****

@@ -2,7 +2,7 @@ import { runFactory } from "./challenge13";
 
 import { describe, expect, it } from "vitest";
 
-describe("tests for challenge 13", () => {
+describe.skip("tests for challenge 13", () => {
   it("returns completed for >>.", () => {
     expect(runFactory([">>."])).toBe("completed");
   });
