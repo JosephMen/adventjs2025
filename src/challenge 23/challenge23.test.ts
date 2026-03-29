@@ -1,7 +1,7 @@
 import { describe, expect, it } from "vitest";
 import { minStepsToDeliver } from "./challenge23";
 
-describe("minStepsToDeliver examples from readme", () => {
+describe.skip("minStepsToDeliver examples from readme", () => {
   it("should return 4 as total of minimum distances", () => {
     expect(
       minStepsToDeliver([

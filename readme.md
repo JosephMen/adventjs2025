@@ -44,4 +44,4 @@ The official page:  [AdventJs](https://adventjs.dev/)
 | [21](./src/challenge%2021) | The Cleaning Robot | ⭐⭐⭐⭐ | 🟡 Medium
 | [22](./src/challenge%2022) | The Sleigh Maze | ⭐⭐⭐⭐ | 🔴 Hard
 | [23](./src/challenge%2023) | Gift Route | ⭐⭐⭐⭐⭐ | 🟡 Medium
-| [24](./src/challenge%2024) | (Pendiente) | 0 Stars 🤷‍♂️ | 🟡 Medium
+| [24](./src/challenge%2024) | Check If Trees are Magical Mirrors | ⭐⭐⭐⭐⭐ | 🟡 Medium
