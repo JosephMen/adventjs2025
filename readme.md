@@ -25,7 +25,7 @@ The official page:  [AdventJs](https://adventjs.dev/)
 | [2](./src/challenge%202) | Manufacture the toys | ⭐⭐⭐⭐⭐ | 🟢 Easy |
 | [3](./src/challenge%203) | Help the Intern | ⭐⭐⭐⭐⭐ | 🟢 Easy
 | [4](./src/challenge%204) | Decipher the Santa PIN | ⭐⭐⭐ | 🟡 Medium
-| [5](./src/challenge%205) | The countdow to take off | ⭐⭐⭐⭐⭐ | 🟢 Easy
+| [5](./src/challenge%205) | The countdown to take off | ⭐⭐⭐⭐⭐ | 🟢 Easy
 | [6](./src/challenge%206) | Matching Gloves | ⭐⭐⭐⭐ | 🟢 Easy
 | [7](./src/challenge%207) | Decorating the Tree | ⭐⭐⭐⭐ | 🟡 Medium
 | [8](./src/challenge%208) | Find the unique toy | ⭐⭐⭐⭐ | 🟢 Easy
@@ -45,3 +45,4 @@ The official page:  [AdventJs](https://adventjs.dev/)
 | [22](./src/challenge%2022) | The Sleigh Maze | ⭐⭐⭐⭐ | 🔴 Hard
 | [23](./src/challenge%2023) | Gift Route | ⭐⭐⭐⭐⭐ | 🟡 Medium
 | [24](./src/challenge%2024) | Check If Trees are Magical Mirrors | ⭐⭐⭐⭐⭐ | 🟡 Medium
+| [25](./src/challenge%2025) | Execute de Magical Language | ⭐⭐⭐ | 🟡 Medium

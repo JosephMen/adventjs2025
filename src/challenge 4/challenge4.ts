@@ -1,20 +1,42 @@
 export function decodeSantaPin(code: string): string | null {
 
   let result = ''
-  let countDigits = 0
-  let currentNumber = 0
-  for(let i = 0; i < code.length; i++){
-    const char = code[i]
-
-    if(char == '[') countDigits++
-    else if(char == '<') continue
-    else if(char == ']') result += currentNumber
-    else if(char == '+') currentNumber = (currentNumber + 1) % 10
-    else if(char == '-') currentNumber = (10 + currentNumber - 1) % 10
-    else{
-        currentNumber  = Number.parseInt(char)
-    }
+  const ops = {
+    '+': 1,
+    '-': -1
   }
-  if(countDigits < 4) return null
+
+  function useRegex(input : string) : string[] {
+    let regex = /\[(.*?)\]/g;
+    const array = [...input.matchAll(regex)]
+    .map(match => match[1] ?? '')
+    .filter(Boolean)
+    return array
+  }
+  const digits = useRegex(code)
+
+  if(digits.length < 4) return null
+
+  let lastChar = Number(digits[0])
+
+  for(let digit of digits){
+    if(digit === '<'){
+      result += lastChar
+      continue
+    }
+
+    let number = Number(digit[0])
+    for(let i = 1; i < digit.length; i++) {
+      const char = digit[i]
+      number += ops[char as keyof typeof ops]
+      number = (number + 10) % 10
+    }
+    lastChar = number
+    result += number
+  }
   return result
 }
+
+const result = decodeSantaPin('[1++][2-][3+][<]')
+
+console.log({result})
